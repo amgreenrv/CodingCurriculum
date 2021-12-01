@@ -1,0 +1,41 @@
+/* General */
+
+body {
+	background: #fff;
+	color: #000;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-size: 14px;
+	font-family: 'Open Sans', "Helvetica Neue", Arial, sans-serif;
+}
+
+.container {
+	width: 924px;
+	margin: 0 auto;
+	padding: 30px 24px;
+}
+
+/* Typography */
+
+/* Header */
+
+/* Hero */
+
+/* News & Events */
+
+/* Footer */
+
+/* clearfix */
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	}
+
+
+
+
+
